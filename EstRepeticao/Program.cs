@@ -14,8 +14,6 @@ namespace EstRepeticao
             int gas = 0;
             int die = 0;
 
-            
-
             while (opcao != 4) {
                 opcao = Validacao(opcao);
 
